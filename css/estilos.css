@@ -3,3 +3,8 @@ color: #333;
 text-align: center;
 font-family: "Arial";
 }
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
