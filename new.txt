@@ -1,1 +1,51 @@
-akdadlsadlsasañds
+Archivaldo.txt
+Archivaldo.txt:q
+Estructura extra.html
+Imágenes
+Mauricio.txt
+README.md
+Tema.html
+codigo Python
+css
+cursoPOO_uber
+debug.log
+hola.txt
+hole.txt
+new.txt
+pezones.txt
+3D Objects
+AppData
+Comand
+Configuración local
+Contacts
+Cookies
+CursoPython
+Datos de programa
+Desktop
+Documents
+Downloads
+Dropbox
+Entorno de red
+Favorites
+Impresoras
+Instrucciones.txt
+Links
+Menú Inicio
+MicrosoftEdgeBackups
+Mis documentos
+Music
+NTUSER.DAT
+NTUSER.DAT{bfe9c2ca-304f-11eb-832c-8e24036d4adf}.TM.blf
+NTUSER.DAT{bfe9c2ca-304f-11eb-832c-8e24036d4adf}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{bfe9c2ca-304f-11eb-832c-8e24036d4adf}.TMContainer00000000000000000002.regtrans-ms
+OneDrive
+Pictures
+Plantillas
+Reciente
+Saved Games
+Searches
+SendTo
+Videos
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
